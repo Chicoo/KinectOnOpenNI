@@ -1,0 +1,18 @@
+The KinectOnOpenNI project's aim is to create a simplified C# wrapper for uisng a Kinect with openNI
+The user of the wrapper only has to create a manager and subscribe to events to grab gestures or movements.
+
+At this time the following functions are supported:
+
+- Swap gestures (Left, Right, Up, Down)
+- Still Gesture
+- Push Gesture
+
+- Depth Image
+- RGB Image
+
+- LED Control
+- Motor Control
+
+As pre-requirements the OpenNI drivers for the kinect must be installed.
+The motor driver must be replaced with the one from the OpenKinect project (part of the repository).
+The last one is not mandetory, but if not installed the motor and the LED cannot be controlled.
