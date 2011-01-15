@@ -1,0 +1,7 @@
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\bin\Debug\KinectOnOpenNI.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\bin\Debug\KinectOnOpenNI.pdb
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\bin\Debug\OpenNI.net.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\obj\Debug\KinectOnOpenNI.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\obj\Debug\KinectOnOpenNI.pdb
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectOnOpenNI\bin\Debug\LibUsbDotNet.dll

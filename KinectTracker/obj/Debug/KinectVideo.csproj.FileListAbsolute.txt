@@ -1,0 +1,6 @@
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectTracker\bin\Debug\KinectTracker.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectTracker\bin\Debug\KinectTracker.pdb
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectTracker\obj\Debug\KinectTracker.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectTracker\obj\Debug\KinectTracker.pdb
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectTracker\bin\Debug\OpenNI.net.dll

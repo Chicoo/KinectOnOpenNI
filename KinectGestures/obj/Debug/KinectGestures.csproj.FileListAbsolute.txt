@@ -1,0 +1,6 @@
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectGestures\bin\Debug\KinectGestures.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectGestures\bin\Debug\KinectGestures.pdb
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectGestures\bin\Debug\ManagedNite.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectGestures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectGestures\obj\Debug\KinectGestures.dll
+C:\Users\Marco de Brouwer\Documents\Visual Studio 10\Projects\Kinect\AnotherKinectTest\KinectGestures\obj\Debug\KinectGestures.pdb
